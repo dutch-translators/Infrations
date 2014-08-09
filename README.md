@@ -2,6 +2,9 @@ Infrations
 ==========
 
 Dutch translation of the infractions extension by RFD
+Translation is for version 0.0.1
+
+Note: Not all strings are translated due to missing strings not provided by mod author
 
 Installation
 ============
