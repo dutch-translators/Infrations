@@ -80,7 +80,7 @@ $lang = array_merge($lang, array(
 		Met vriendelijke groeten,<br />
 		'.$FORUM_NAME_TO_REPLACE_INFRACTIONS.' Forums',
 	'INFRACTION_PM_BODY_POST'			=> 'Beste %s, <br />
-		Je hebt een boete gekregen op '.$FORUM_NAME_TO_REPLACE_INFRACTIONS.' Forums.<br /><br />
+		Je hebt een boete gekregen op '.$FORUM_NAME_TO_REPLACE_INFRACTIONS.' Forums.<br /><br /> 
 		<strong>Overtreding:</strong> %s<br />
 		<strong>Reden:</strong> %s</br><br /> 
 		Deze overtreding is %s punt(en) waard en kan resulteren in beperkte toegang totdat deze overtreding verloopt. Serieuze overtredingen zullen nooit verlopen.<br />
